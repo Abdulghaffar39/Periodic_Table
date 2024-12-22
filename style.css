@@ -1,3 +1,11 @@
+h1 {
+
+    text-align: center;
+    background-color: skyblue;
+}
+
+
+
 tr, td {
 
     border: 1px solid black;
@@ -12,7 +20,7 @@ tr, td {
 
 .pink {
 
-    background-color: rgb(254, 146, 164);
+    background-color: rgb(78, 223, 97);
 }
 
 .purple {
