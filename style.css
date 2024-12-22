@@ -2,4 +2,55 @@ tr, td {
 
     border: 1px solid black;
     text-align: center;
+    width: 800px;
+}
+
+.border_none {
+
+    border: none;
+}
+
+.pink {
+
+    background-color: rgb(254, 146, 164);
+}
+
+.purple {
+
+    background-color: rgb(208, 48, 208);
+}
+
+.blue {
+
+    background-color: rgb(132, 220, 255);
+}
+
+.yellow {
+
+    background-color: rgb(254, 254, 114);
+}
+
+.green {
+
+    background-color: rgb(168, 253, 168);
+}
+
+.brown {
+
+    background-color: rgb(213, 121, 60);
+}
+
+.light_green {
+
+    background-color: rgb(24, 193, 24);
+}
+
+.light_pink {
+
+    background-color: rgb(255, 135, 159);
+}
+
+.light_brown {
+
+    background-color: rgb(255, 230, 1);
 }
